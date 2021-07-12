@@ -12,7 +12,7 @@ Fidelity and attention to detail are important aspects of this position (e.g. sp
 https://www.figma.com/file/BT5E9WLI1cWdxviRSsOl1d/Test-Animations-and-Specs?node-id=0%3A1
 
 2. In the same design, please implement the hover and click states for the button as prototyped here:
-https://www.figma.com/proto/BT5E9WLI1cWdxviRSsOl1d/Test:-Animations-and-Specs?node-id=12%3A57&scaling=min-zoom&page-id=0%3A1
+https://www.figma.com/proto/BT5E9WLI1cWdxviRSsOl1d/Test%3A-Animations-and-Specs?node-id=85%3A111&scaling=min-zoom&page-id=0%3A1
 
  
 
