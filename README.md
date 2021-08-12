@@ -14,7 +14,7 @@ https://www.figma.com/file/BT5E9WLI1cWdxviRSsOl1d/Test%3A-Animations-and-Specs?n
 2. In the same design, please implement the hover and click states for the button as prototyped here:
 https://www.figma.com/proto/BT5E9WLI1cWdxviRSsOl1d/Test%3A-Animations-and-Specs?node-id=293%3A103&scaling=min-zoom&page-id=293%3A56&starting-point-node-id=293%3A103
 
-3. He should list 10 starwars characters retrieved from this endpoint: https://swapi.dev/api/people: https://swapi.dev/api/people
+3. In the same design, please dynamically retrieve 10 starwars characters retrieved from this endpoint: https://swapi.dev/api/people, and replace the Lorem Ipsum with those character names.
 
 Regards,
 
